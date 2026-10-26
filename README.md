@@ -21,13 +21,13 @@ Deleting projects, steps and milestones, inviting people and removing them from 
 In Claude Code:
 
 ```
-/plugin install zamma --marketplace ZammaApp/zamma-claude-plugin
+/plugin install zamma --marketplace ZammaApp/zamma
 ```
 
 On Claude Code before 2.1.275, add the marketplace first, then install:
 
 ```
-/plugin marketplace add ZammaApp/zamma-claude-plugin
+/plugin marketplace add ZammaApp/zamma
 /plugin install zamma@zamma
 ```
 
