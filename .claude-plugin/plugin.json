@@ -1,0 +1,18 @@
+{
+    "name": "zamma",
+    "displayName": "Zamma",
+    "version": "1.0.0",
+    "description": "Find and update the projects, tasks and road map of your Zamma workspace from Claude, with your own permissions.",
+    "author": {
+        "name": "Zamma",
+        "url": "https://zamma.dev"
+    },
+    "homepage": "https://zamma.dev",
+    "license": "MIT",
+    "keywords": ["project management", "tasks", "road map", "kanban", "team"],
+    "icon": "./assets/logo.png",
+    "documentationUrl": "https://zamma.dev/support",
+    "supportUrl": "https://zamma.dev/support",
+    "privacyPolicyUrl": "https://zamma.dev/privacy",
+    "termsOfServiceUrl": "https://zamma.dev/terms"
+}

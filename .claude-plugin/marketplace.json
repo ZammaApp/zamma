@@ -1,0 +1,15 @@
+{
+    "name": "zamma",
+    "description": "Zamma's plugin for Claude: the projects, tasks and road map of your Zamma workspace.",
+    "owner": {
+        "name": "Zamma",
+        "url": "https://zamma.dev"
+    },
+    "plugins": [
+        {
+            "name": "zamma",
+            "source": "./",
+            "description": "Find and update the projects, tasks and road map of your Zamma workspace from Claude, with your own permissions."
+        }
+    ]
+}

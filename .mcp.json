@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "zamma": {
+            "type": "http",
+            "url": "https://api.zamma.dev/mcp"
+        }
+    }
+}
